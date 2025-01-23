@@ -42,3 +42,9 @@ console.log(depositCheck)
 console.log(writeCheck)
 console.log(getDividend)
 console.log(splitAccount)
+
+
+//TASK FOUR
+console.log("Task Four")
+let customerName = 'David Tame.'
+console.log('Hello,' ,customerName ,'Welcome to our store! If you have any questions then please, reach out!' )
