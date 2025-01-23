@@ -22,3 +22,23 @@ console.log(isAvailable)
 console.log(typeof productName)
 console.log(typeof productPrice)
 console.log(typeof isAvailable)
+
+//TASK THREE
+console.log("Task Three");
+let accountBalance = 11700
+        // Deposit into account
+let check = 300
+let electricBill = 172
+const dividendRate = 0.01
+const splitRate = 2
+
+let depositCheck = accountBalance + check
+let writeCheck = accountBalance - electricBill
+let getDividend = accountBalance + accountBalance * dividendRate
+let splitAccount = accountBalance / splitRate
+
+console.log(accountBalance)
+console.log(depositCheck)
+console.log(writeCheck)
+console.log(getDividend)
+console.log(splitAccount)
