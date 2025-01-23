@@ -48,3 +48,11 @@ console.log(splitAccount)
 console.log("Task Four")
 let customerName = 'David Tame.'
 console.log('Hello,' ,customerName ,'Welcome to our store! If you have any questions then please, reach out!' )
+
+
+//TASK FIVE
+console.log("Task Five")
+let username = "logger"
+let password = 1234
+let isLoggedIn = username === "logger" && password === 1234
+console.log(isLoggedIn)
